@@ -18,7 +18,7 @@ const Navbar = () => {
       <Toolbar>
         {/* Brand Name */}
         <Typography variant="h6" sx={{ flexGrow: 1, fontWeight: 'bold', letterSpacing: 1.2 }}>
-          <span style={{ fontSize: "27px" }}>Chat-GPT</span> 3.o
+          <span style={{ fontSize: "27px" }}>Chat-GPT  3.o</span>
         </Typography>
 
         {/* Navigation Links */}
